@@ -1,3 +1,3 @@
-def add(a,b):
-    return (a+b)
-print(add(1,3))
+def add(a,b,c):
+    return (a+b+c)
+print(add(1,3,8))
